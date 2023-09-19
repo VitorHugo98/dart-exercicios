@@ -13,7 +13,7 @@ Exemplo: Para o array **numeros** abaixo
 ```dart
 const numeros = [2, 3, 4, 6];
 
-// seu codigo aqui
+
 ```
 
 Deverá ser impresso no console:
