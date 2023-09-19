@@ -36,4 +36,3 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
-###### tags: `módulo 1` `exercício de classe` `lógica` `matemática` `nodeJS`
